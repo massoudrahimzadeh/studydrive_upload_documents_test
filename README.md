@@ -12,3 +12,8 @@ Please upload the folder and change the folowing file and folder paths as follow
 7. class name: AsynchronousDocumentsUpload_Test ---> line 23 ---> pass the folder path
 
 
+Path to the documentation: https://drive.google.com/file/d/1_ngaruaisde2IWG9-vVWwU854JgnoeTh/view?usp=sharing
+The email that I used for test: massoudrmz@gmail.com for verified user and "notverified@notverified.com" for unverified user.
+
+
+
