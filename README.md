@@ -1,4 +1,4 @@
-# studydrive_upload_documents_test
+# Automated test-Sample work
 studydrive task - automated tests for upload documents
 
 The test files can be found here: https://1drv.ms/u/s!AgUPuSHY5qG123afVemVdUlc6AI6?e=ugPkeO
