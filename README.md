@@ -1,5 +1,6 @@
-# Automated test-Sample work
-studydrive task - automated tests for upload documents
+# Automated test-Sample work - JUnit 5, Selenium, Robot framework, Java
+studydrive task - automated tests for upload documents 
+
 
 The test files can be found here: https://1drv.ms/u/s!AgUPuSHY5qG123afVemVdUlc6AI6?e=ugPkeO
 Please upload the folder and change the folowing file and folder paths as follow:
